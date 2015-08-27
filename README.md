@@ -1,6 +1,11 @@
-# Paylike Countries
+# Countries
 
-This module contains a list of the countries supported by Paylike
+Countries supported by Paylike.
+
+Notice that this has nothing to do with accepting cards. Cards from all over
+the world is accepted.
+
+You will need a registered company or citizenship from one of these countries:
 
 - Austria
 - Belgium
