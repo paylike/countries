@@ -18,7 +18,7 @@ module.exports = [
 	'Ireland',
 	'Italy',
 	'Latvia',
-	'Lichtenstein',
+	'Liechtenstein',
 	'Lithuania',
 	'Luxembourg',
 	'Malta',
