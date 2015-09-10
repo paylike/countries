@@ -50,7 +50,7 @@ your application will work. Like so:
 }
 ```
 
-This will keep you on the `2.x` branch which will not have breaking changes
+This will keep you on the `v2.x` branch which will not have breaking changes
 merged.
 
 ```js
