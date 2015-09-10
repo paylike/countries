@@ -73,3 +73,7 @@ countries
 	.filter(c => c.currency === 'EUR')
 	.map(c => c.name);
 ```
+
+Notice that some countries are primarily using EUR online although they have a
+distinct domestic currency. An example is Romania in which you would probably
+prefer a merchant account in EUR over RON.
