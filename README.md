@@ -64,4 +64,12 @@ countries;
 	...
 ]
 */
+
+countries.find(c => c.code === 'DK');
+// { code: 'DK', currency: 'DKK', name: 'Denmark' }
+
+// countries with EUR as default
+countries
+	.filter(c => c.currency === 'EUR')
+	.map(c => c.name);
 ```
