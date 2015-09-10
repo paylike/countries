@@ -59,8 +59,8 @@ var countries = require('paylike-countries');
 countries;
 /*
 [
-	'Austria',
-	'Belgium',
+	{ name: 'Austria' },
+	{ name: 'Belgium' },
 	...
 ]
 */
