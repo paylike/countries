@@ -38,3 +38,30 @@ You will need a registered company or citizenship from one of these countries:
 - Spain
 - Sweden
 - United Kingdom
+
+## Usage
+
+Pin the dependency to the current version branch to ensure future installs of
+your application will work. Like so:
+
+```json
+"dependencies": {
+	"paylike-currencies": "paylike/currencies#v1.x"
+}
+```
+
+This will keep you on the `1.x` branch which will not have breaking changes
+merged.
+
+```js
+var countries = require('paylike-countries');
+
+countries;
+/*
+[
+	'Austria',
+	'Belgium',
+	...
+]
+*/
+```
