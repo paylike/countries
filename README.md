@@ -46,7 +46,7 @@ your application will work. Like so:
 
 ```json
 "dependencies": {
-	"paylike-currencies": "paylike/currencies#v2.x"
+	"paylike-countries": "paylike/countries#v2.x"
 }
 ```
 
