@@ -15,10 +15,13 @@ You will need a registered company or citizenship from one of these countries:
 - Czech Republic
 - Denmark
 - Estonia
+- Faroe Islands
 - Finland
 - France
 - Germany
+- Gibraltar
 - Greece
+- Greenland
 - Hungary
 - Iceland
 - Ireland
@@ -28,15 +31,18 @@ You will need a registered company or citizenship from one of these countries:
 - Lithuania
 - Luxembourg
 - Malta
+- Monaco
 - Netherlands
 - Norway
 - Poland
 - Portugal
 - Romania
+- San Marino
 - Slovakia
 - Slovenia
 - Spain
 - Sweden
+- Switzerland
 - United Kingdom
 
 ## Usage

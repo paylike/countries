@@ -32,4 +32,10 @@ module.exports = [
 	{ code: 'ES', currency: 'EUR', name: 'Spain' },
 	{ code: 'SE', currency: 'SEK', name: 'Sweden' },
 	{ code: 'GB', currency: 'GPB', name: 'United Kingdom' },
+	{ code: 'CH', currency: 'CHF', name: 'Switzerland' },
+	{ code: 'SM', currency: 'EUR', name: 'San Marino' },
+	{ code: 'MC', currency: 'EUR', name: 'Monaco' },
+	{ code: 'GL', currency: 'DKK', name: 'Greenland' },
+	{ code: 'GI', currency: 'GIP', name: 'Gibraltar' },
+	{ code: 'FO', currency: 'DKK', name: 'Faroe Islands' },
 ];
