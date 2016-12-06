@@ -1,6 +1,7 @@
 {
-	"name": "paylike-countries",
+	"name": "@paylike/countries",
 	"description": "List of the countries supported by Paylike",
-	"main": "index.js",
-	"version": "2.0.0"
+	"version": "3.0.0",
+	"repository": "paylike/countries",
+	"license": "MIT"
 }
