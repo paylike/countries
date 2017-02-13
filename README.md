@@ -3,7 +3,7 @@
 Countries supported by Paylike. Sorted alphabetically.
 
 Notice that this has nothing to do with accepting cards. Cards from all over
-the world is accepted.
+the world are accepted.
 
 You will need a registered company or citizenship from one of these countries:
 
@@ -52,15 +52,12 @@ your application will work. Like so:
 
 ```json
 "dependencies": {
-	"paylike-countries": "paylike/countries#v2.x"
+	"@paylike/countries": "*"
 }
 ```
 
-This will keep you on the `v2.x` branch which will not have breaking changes
-merged.
-
 ```js
-var countries = require('paylike-countries');
+var countries = require('@paylike/countries');
 
 countries;
 /*
@@ -81,5 +78,5 @@ countries
 ```
 
 Notice that some countries are primarily using EUR online although they have a
-distinct domestic currency. An example is Romania in which you would probably
-prefer a merchant account in EUR over RON.
+distinct domestic currency. An example is Romania in which you might prefer a
+merchant account in EUR over RON.
