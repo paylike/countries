@@ -1,6 +1,6 @@
 # Countries
 
-Countries supported by Paylike.
+Countries supported by Paylike. Sorted alphabetically.
 
 Notice that this has nothing to do with accepting cards. Cards from all over
 the world is accepted.
