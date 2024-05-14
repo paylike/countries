@@ -3,5 +3,23 @@
 	"description": "List of the countries supported by Paylike",
 	"version": "4.0.0",
 	"repository": "paylike/countries",
+	"prettier": {
+		"semi": false,
+		"singleQuote": true,
+		"useTabs": true,
+		"bracketSpacing": false,
+		"trailingComma": "es5",
+		"tabWidth": 4,
+		"overrides": [
+			{
+				"files": "*.md",
+				"options": {
+					"proseWrap": "always",
+					"useTabs": false,
+					"tabWidth": 2
+				}
+			}
+		]
+	},
 	"license": "MIT"
 }
