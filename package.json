@@ -1,7 +1,7 @@
 {
 	"name": "@paylike/countries",
 	"description": "List of the countries supported by Paylike",
-	"version": "4.0.0",
+	"version": "5.0.0",
 	"repository": "paylike/countries",
 	"type": "module",
 	"exports": "./index.js",
